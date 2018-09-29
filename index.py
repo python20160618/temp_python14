@@ -5,6 +5,10 @@ def hello():
 
 a = 1
 
+
 def register():
 	return 'register info'
+
+
+b = 2
 
