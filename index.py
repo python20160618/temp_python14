@@ -12,3 +12,5 @@ def register():
 
 b = 2
 
+c = 3
+
